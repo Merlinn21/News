@@ -1,5 +1,7 @@
 Technical Test - Salt 
 
+APK Download: https://github.com/Merlinn21/news-salt/blob/master/app-debug.apk
+
 User Case: 
   1. Buatlah satu project aplikasi native Android yang terintegrasi dengan https://newsapi.org/
   2. Buatlah satu halaman untuk menampilkan daftar berita dari https://newsapi.org/docs/endpoints/topheadlines
