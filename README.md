@@ -22,20 +22,22 @@ Architecture yang dipakai:
 
 Screenshot:
 <br>
-Headline - Landing Page
+Headline - Landing Page:
 <br>
 ![WhatsApp Image 2022-11-13 at 12 20 19 PM](https://user-images.githubusercontent.com/56074758/201507368-e32f1515-3267-4115-ba0b-6236f38e4691.jpeg) 
 
 
 <br>
-News Detail
+News Detail:
 <br>
-![WhatsApp Image 2022-11-13 at 12 20 35 PM](https://user-images.githubusercontent.com/56074758/201507369-1420042d-7c9b-4cd9-93b2-6033e133ae62.jpeg)
+![WhatsApp Image 2022-11-13 at 12 20 35 PM](https://user-images.githubusercontent.com/56074758/201507800-4b396b2e-ec8d-47a9-991a-9a183439e13f.jpeg)
+<br>
+
 
 <br>
-Change News Country
+Change News Country:
 <br>
-![WhatsApp Image 2022-11-13 at 12 19 55 PM](https://user-images.githubusercontent.com/56074758/201507374-d7a1004e-c2d7-4142-b661-dde1c082482b.jpeg)
+![WhatsApp Image 2022-11-13 at 12 19 55 PM](https://user-images.githubusercontent.com/56074758/201507811-f3806e88-19d8-4164-90e2-67414a4ff8b2.jpeg)
 <br>
 
 GIF:
