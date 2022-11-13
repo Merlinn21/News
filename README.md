@@ -22,9 +22,11 @@ Architecture yang dipakai:
 
 Screenshot:
 <br>
+Headline - News
 ![SC_02](assets/sc_02.jpeg)
 <br>
 
+News Detail
 ![SC_03](assets/sc_03.jpeg)
 <br>
 
