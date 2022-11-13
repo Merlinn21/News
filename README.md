@@ -33,6 +33,7 @@ Headline - Landing Page:
 <br>
 <br>
 GIF:
+<br>
 ![GIF_02](assets/gif_02.gif)
 
 ![GIF_03](assets/gif_03.gif)
