@@ -32,6 +32,8 @@ News Detail
 ![SC_03](assets/sc_03.jpeg)
 <br>
 
+Change News Country
+<br>
 ![SC_01](assets/sc_01.jpeg)
 
 GIF:
