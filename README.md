@@ -30,15 +30,13 @@ Headline - Landing Page:
 
 ![SC_01](assets/sc_01.jpeg)
 
-<br>
-<br>
 GIF:
 <br>
 ![GIF_02](assets/gif_02.gif)
 
-![GIF_03](assets/gif_03.gif)
-
 ![GIF_02](assets/gif_02.gif)
+
+![GIF_03](assets/gif_03.gif)
 
 
 ![GIF_01](assets/gif_01.gif)
