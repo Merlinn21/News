@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">News</string>
+
+    <string name="title_placeholder">Title Placeholder</string>
+    <string name="source_placeholder">Source Placeholder</string>
+    <string name="time_placeholder">Time Placeholder</string>
+    <string name="load_more">Load More</string>
+    <string name="hours_diff"> hours ago</string>
+    <string name="day_diff"> days ago</string>
+    <string name="headlines">News Headlines</string>
+    <string name="change_news_language">Change News Country</string>
+    <string name="indonesia">Indonesia</string>
+    <string name="english">United States</string>
+    <string name="news_detail">News Detail</string>
 </resources>
