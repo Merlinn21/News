@@ -28,9 +28,12 @@ Headline - Landing Page
 
 
 <br>
+News Detail
+<br>
 ![WhatsApp Image 2022-11-13 at 12 20 35 PM](https://user-images.githubusercontent.com/56074758/201507369-1420042d-7c9b-4cd9-93b2-6033e133ae62.jpeg)
 
-
+<br>
+Change News Country
 <br>
 ![WhatsApp Image 2022-11-13 at 12 19 55 PM](https://user-images.githubusercontent.com/56074758/201507374-d7a1004e-c2d7-4142-b661-dde1c082482b.jpeg)
 <br>
