@@ -23,10 +23,12 @@ Architecture yang dipakai:
 Screenshot:
 <br>
 Headline - News
+<br>
 ![SC_02](assets/sc_02.jpeg)
 <br>
 
 News Detail
+<br>
 ![SC_03](assets/sc_03.jpeg)
 <br>
 
