@@ -24,28 +24,27 @@ Screenshot:
 <br>
 Headline - Landing Page:
 <br>
-![WhatsApp Image 2022-11-13 at 12 20 19 PM](https://user-images.githubusercontent.com/56074758/201507368-e32f1515-3267-4115-ba0b-6236f38e4691.jpeg) 
-![SC_01](assets/sc_01.jpeg)
+![SC_02](assets/sc_02.jpeg)
 
 <br>
 News Detail:
 <br>
-![WhatsApp Image 2022-11-13 at 12 20 35 PM](https://user-images.githubusercontent.com/56074758/201507800-4b396b2e-ec8d-47a9-991a-9a183439e13f.jpeg)
+![SC_03](assets/sc_03.jpeg)
 <br>
 
 
 <br>
 Change News Country:
 <br>
-![WhatsApp Image 2022-11-13 at 12 19 55 PM](https://user-images.githubusercontent.com/56074758/201507811-f3806e88-19d8-4164-90e2-67414a4ff8b2.jpeg)
+![SC_01](assets/sc_01.jpeg)
 <br>
 
 <br>
 <br>
 GIF:
 <br>
-![ezgif-3-71e44daa58](https://user-images.githubusercontent.com/56074758/201507684-f72b8bf5-7122-4757-8365-b00bb3a5d3b5.gif)
+![GIF_02](assets/gif_02.gif)
 <br>
-![ezgif-3-fbcc884b42](https://user-images.githubusercontent.com/56074758/201507685-dcdbb14b-776e-4e00-8ef0-0336b026fdc7.gif)
+![GIF_03](assets/gif_03.gif)
 <br>
-![ezgif-3-01b3186c71](https://user-images.githubusercontent.com/56074758/201507687-8b100e96-c30b-44b3-b08e-bc7aa812d673.gif)
+![GIF_01](assets/gif_01.gif)
