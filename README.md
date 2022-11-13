@@ -30,21 +30,18 @@ Headline - Landing Page:
 News Detail:
 <br>
 ![SC_03](assets/sc_03.jpeg)
-<br>
-
 
 <br>
 Change News Country:
 <br>
 ![SC_01](assets/sc_01.jpeg)
-<br>
 
 <br>
 <br>
 GIF:
-<br>
+
 ![GIF_02](assets/gif_02.gif)
-<br>
+
 ![GIF_03](assets/gif_03.gif)
-<br>
+
 ![GIF_01](assets/gif_01.gif)
