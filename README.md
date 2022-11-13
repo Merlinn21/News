@@ -22,21 +22,19 @@ Architecture yang dipakai:
 
 Screenshot:
 <br>
-Headline - Landing Page:
-<br>
 ![SC_02](assets/sc_02.jpeg)
+<br>
 
 ![SC_03](assets/sc_03.jpeg)
+<br>
 
 ![SC_01](assets/sc_01.jpeg)
 
 GIF:
 <br>
-![GIF_02](assets/gif_02.gif)
 
 ![GIF_02](assets/gif_02.gif)
 
 ![GIF_03](assets/gif_03.gif)
-
 
 ![GIF_01](assets/gif_01.gif)
