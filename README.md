@@ -25,7 +25,7 @@ Screenshot:
 Headline - Landing Page:
 <br>
 ![WhatsApp Image 2022-11-13 at 12 20 19 PM](https://user-images.githubusercontent.com/56074758/201507368-e32f1515-3267-4115-ba0b-6236f38e4691.jpeg) 
-
+![SC_01](../assets/sc_01.jpeg)
 
 <br>
 News Detail:
