@@ -1,4 +1,5 @@
 APK Download: https://github.com/Merlinn21/news-salt/blob/master/app-debug.apk
+
 Bahasa : Kotlin
 
 Library yang dipakai:
